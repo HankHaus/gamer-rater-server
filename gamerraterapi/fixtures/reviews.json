@@ -1,0 +1,11 @@
+[
+    {
+        "model": "gamerraterapi.review",
+        "pk": "1",
+        "fields": {
+            "review_body": "this game rocks",
+            "gameId": 1,
+            "gamerId": 1
+        }
+    }
+]

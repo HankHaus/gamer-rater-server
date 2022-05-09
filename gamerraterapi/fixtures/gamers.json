@@ -1,0 +1,11 @@
+[
+    {
+        "model": "gamerraterapi.gamer",
+        "pk": "1",
+        "fields": {
+            "user": 1,
+            "bio": "yeehaw donkey kong"
+        }
+    }
+]
+

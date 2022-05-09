@@ -1,0 +1,10 @@
+[
+    {
+        "model": "gamerraterapi.gamecategory",
+        "pk": "1",
+        "fields": {
+            "gameId": 1,
+            "categoryId": 1
+        }
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "model": "gamerraterapi.game",
+        "pk": "1",
+        "fields": {
+            "title": "Legion Of Skanks",
+            "description": "FPS",
+            "year_released": 1982,
+            "number_of_players": 8,
+            "estimated_time_in_minutes": 90,
+            "age_recommendation": "18+",
+            "gamerId": 1
+        }
+    }
+]
