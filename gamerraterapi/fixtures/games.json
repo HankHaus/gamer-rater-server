@@ -9,7 +9,20 @@
             "number_of_players": 8,
             "estimated_time_in_minutes": 90,
             "age_recommendation": "18+",
-            "gamerId": 1
+            "gamer": 1
+        }
+    },
+    {
+        "model": "gamerraterapi.game",
+        "pk": "2",
+        "fields": {
+            "title": "The Other Legion Of Skanks",
+            "description": "FPS",
+            "year_released": 1984,
+            "number_of_players": 10,
+            "estimated_time_in_minutes": 120,
+            "age_recommendation": "18+",
+            "gamer": 1
         }
     }
 ]

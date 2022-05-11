@@ -7,5 +7,9 @@ class Game(models.Model):
     number_of_players = models.IntegerField()
     estimated_time_in_minutes = models.IntegerField()
     age_recommendation = models.CharField(max_length=20)
-    gamerId = models.ForeignKey("Gamer", on_delete=models.CASCADE)
-    
+    gamer = models.ForeignKey("Gamer", on_delete=models.CASCADE)
+    categories = models.ManyToManyField(
+        'Category',
+        through='GameCategory',
+        related_name='games'
+    )
