@@ -4,8 +4,8 @@
         "pk": "1",
         "fields": {
             "rating": "10/10",
-            "gamerId": 1,
-            "gameId": 1
+            "gamer": 1,
+            "game": 1
         }
     }
 ]
